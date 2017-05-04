@@ -1,6 +1,7 @@
 {
   "name": "portal",
   "version": "0.1.0",
+  "homepage": "http://www.bestbrandsinc.com/react",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
